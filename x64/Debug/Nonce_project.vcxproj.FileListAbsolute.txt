@@ -1,0 +1,4 @@
+E:\facultate\master sem3\GPU\Nonce_project\x64\Debug\Nonce_project.exe
+E:\facultate\master sem3\GPU\Nonce_project\x64\Debug\Nonce_project.pdb
+E:\facultate\master_sem3\GPU\Nonce_project\x64\Debug\Nonce_project.exe
+E:\facultate\master_sem3\GPU\Nonce_project\x64\Debug\Nonce_project.pdb
